@@ -1,0 +1,18 @@
+<html>
+<head><title> Another example </title>
+	<link href="style1.css" rel="stylesheet">
+</head>
+<body>
+	<h1> ksdjfdsjf </h1>
+	<div>
+		<p class="multiple">sjgfjgf</p>
+		<p> ajsgfjasgjfg</p>
+		<p class="multiple"> ggGg </p>
+
+	</div>
+	<footer>
+		<p class="multiple">jsfgsdjgfsdfuwtf</p>
+	</footer>
+	</body>
+</html>
+
