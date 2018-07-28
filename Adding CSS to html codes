@@ -1,0 +1,27 @@
+<html>
+
+<!-- We can also add a StyleSheet Separately in the head tag under title tag , inside the link tag ( used to link external Style Sheets ) with attribute href which holds the value of the css file to be attached and attribute rel which holds the value of we prefer an external stylesheet type document
+	-->
+<head><title> adding css </title>
+	<link href="style.css" rel="stylesheet">
+</head>
+<body>
+	<h1 class="underline"> first header </h1>
+	<div>
+		<p class="underline"> First Paragraph </p>
+		<p id="kulu"> Second </p>
+		<p class="highlight"> Third G     </p>
+	</div>
+	<!-- A HTML Tag , for example p tag , Could Have multiple classes :
+<p class ="multiple underline">dkjfhjdsf</p>
+where , multiple is one Class and underline is another Class    -->
+	<footer>
+		<p> Fourth </p>
+	</footer>
+
+</body>
+</html>
+
+
+
+
