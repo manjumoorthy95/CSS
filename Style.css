@@ -1,0 +1,24 @@
+/* We can reuse The same CSS File in multiple HTML    */
+/*We have a selector ( Targetting the tags we want to style , here it is p tag first , so all text under p tag would be styled this way ) , and the information of how to be styled  , like the size color and all inside the curly Bracket*/
+p{font-size: 28px}
+/* In the above method we have targetted all the p tags */
+/* If we want only certain p tags to be targetted we use id attribute with value of any text which would be used later in the css file*/
+/* Here we have added the id attribute with value kulu to 2nd p tag , so we use the #value of the id attribute , and put the styling elements insie the Curly Bracket*/
+/* id attributes are supposed to be unique*/
+/* id attribute is used to select and style one text or tag*/
+#kulu{font-size: 24px}
+#kulu{color:red}
+
+/* The Third method of selecting Multiple text is by using Classes . This is the exact opposite of id attribute . In id attribute we create the id attribute with the value in the html file and use the corresponding value in the css file , while in the Class    , We first create the value of the class in the css file ( here underline ) , and then use that value in the html file , along with the class attribute which has the value of the class created first in the css file */
+/* To Create a class in css file we use .classname*/
+/* Class attribute allows to select multiple tags and style it */
+.underline{text-decoration:underline }
+.highlight{color:green}
+
+ 
+
+/* To select p tags only under div tag we do like Below*/
+/* div p{font-size:28px}    */
+
+/* Inside the Curly Bracket there are two things : property ( like Font-size) and value ( like 28px ) */
+
