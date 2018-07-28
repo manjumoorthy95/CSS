@@ -1,0 +1,13 @@
+<html>
+<!-- We usually add styling css element in the head tag under title tag . We use style tag for adding css element and inside style tag we add the tag to be styled ( here we style the p tag which stands for the paragraph Tag ) -->
+<head><title>To learn CSS</title>
+<style>
+p{font-size: 28px}
+</style>
+</head>
+<body>
+	<p style="color:green"> Hello World </p>
+	<!-- The Above Method Shows How To add one quick styling element to a Tag
+	-->
+</body>
+</html>
